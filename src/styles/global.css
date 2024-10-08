@@ -80,3 +80,13 @@ html {
     display: none;
   }
 }
+
+/* Profile Image */
+.container {
+  display: flex;
+  gap: 10px;
+}
+#profile-picture {
+  border: black solid;
+  border-radius: 10px;
+}
